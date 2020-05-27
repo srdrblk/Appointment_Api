@@ -13,7 +13,10 @@ views: bu klasörde var olan ekranlarımız(html),tasarım kodları(scss,css vb.
 Src->app  altındaki app.component.(ts-html-ts) master sayfamızın tasarım,işlem ve html kodlarını içermektedir. index.html den farkı ts dosyasına sahip olması diyebilir.
 
 Bu projede istedilen moc api ile daha önce çalışmadığımdan dummy veri almak  için jwt-bearer ile çalışan daha öcne yazmış olduğumu bir api yi biraz değiştiridim https://github.com/srdrblk/Appointment_Api bu linkten ona ulaşabilirsiniz.
+
 CVS:
 Node.js , Visual Studio Code , Angular 9
+
+
 Contact:
 serdarbilek@outlook.com
